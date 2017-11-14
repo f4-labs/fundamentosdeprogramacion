@@ -1,4 +1,4 @@
-package basicos.tiposdedatos;
+package basicos.tiposdedatosprimitivos;
 
 /**
  * 
