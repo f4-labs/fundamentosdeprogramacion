@@ -1,4 +1,4 @@
-package primeraunidad;
+package basicos;
 
 /* importaciones de librerias */
 import java.util.Scanner;
