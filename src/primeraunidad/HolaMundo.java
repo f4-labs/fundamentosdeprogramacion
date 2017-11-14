@@ -13,7 +13,7 @@ package primeraunidad;
 
 public class HolaMundo { /* la clase principal (public class) se debe de llamar igual que el archivo .java */
 
-	public static void main (String [] args) { /* definicion del metodo principal */
+	public static void main (String[] args) { /* definicion del metodo principal */
 		
 		/* esta instruccion imprime "Hola Mundo!." en consola */
 		System.out.println("Hola Mundo!.");
