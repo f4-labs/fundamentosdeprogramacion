@@ -1,4 +1,4 @@
-package basicos;
+package basicos.entrada;
 
 /* importaciones de librerias */
 import java.util.Scanner;

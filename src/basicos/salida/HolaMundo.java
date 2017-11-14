@@ -1,4 +1,4 @@
-package basicos;
+package basicos.salida;
 
 /**
  * 
